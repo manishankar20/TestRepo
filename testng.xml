@@ -11,7 +11,7 @@
 	
 	<test name="LoginTests">
 		<classes>
-			<class name="Tests.CandidateSelectionTest" />
+			<class name="Tests.TestClass" />
 		</classes>
 	</test> 
 </suite> <!-- Suite -->
